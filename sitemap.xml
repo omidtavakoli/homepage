@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://omidtavakoli.pro/blog/react17-new-features</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/code-splitting-in-react</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/center-align-things-with-css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/promises-in-javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/why-i-migrated-my-website-from-wordpress-to-gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/how-to-build-your-own-compiler</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/django-the-widely-used-python-framework-for-web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/react–the-future-of-web-frontend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/hello-world-omids-first-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/reactjs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/python</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://omidtavakoli.pro/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
